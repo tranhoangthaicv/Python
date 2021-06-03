@@ -1,0 +1,5 @@
+#Application Configuration
+application:
+  host : 0
+  port : 5000
+  debug : False
